@@ -8,7 +8,8 @@ Follow Forum For more details.
 ![alt text](https://github.com/hardwork-machines/Linuxcnc-Press-Brake/blob/main/renders/press%20brake%20v4.png)
 
 __Fusion 360 file__
-[CAD/fusion.f3d](https://github.com/hardwork-machines/Linuxcnc-Press-Brake/blob/main/CAD/fusion360.f3d
+
+[CAD/fusion.f3d](https://github.com/hardwork-machines/Linuxcnc-Press-Brake/blob/main/CAD/fusion360.f3d)
 
 
 
