@@ -13,3 +13,5 @@ __Fusion 360 file__
 
 
 
+# Releases
+https://github.com/hardwork-machines/Linuxcnc-Press-Brake/releases/
